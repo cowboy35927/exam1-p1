@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "memory": "cpp",
+        "istream": "cpp",
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "iterator": "cpp",
+        "xmemory": "cpp",
+        "xutility": "cpp"
+    }
+}

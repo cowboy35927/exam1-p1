@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -Wall -rdynamic CMakeFiles/adder-fifo.dir/main.cpp.o -o adder-fifo  -Wl,-rpath,/opt/systemc/lib /opt/systemc/lib/libsystemc.so.2.3.3 
